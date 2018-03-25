@@ -11,8 +11,8 @@ tags:
 - Stack Network
 - Monitoring
 - Microsoft
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-25"
+modified: "2018-03-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/apis.yaml
 specificationVersion: "0.14"
 apis:
