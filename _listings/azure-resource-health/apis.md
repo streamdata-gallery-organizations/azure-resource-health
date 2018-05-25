@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Resource Health
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/apis.md
 specificationVersion: "0.14"
 apis:
@@ -25,9 +25,9 @@ apis:
   tags: Availability Statuses Subscription Id
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidprovidersmicrosoftresourcehealthavailabilitystatuses-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidprovidersmicrosoft-resourcehealthavailabilitystatuses-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidprovidersmicrosoftresourcehealthavailabilitystatuses-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidprovidersmicrosoft-resourcehealthavailabilitystatuses-get-openapi.md
 - name: Azure Resource Health API Availability Statuses List By Resource Group
   x-api-slug: azure-resource-health-api
   description: Lists the current availability status for all the resources in the
@@ -39,9 +39,9 @@ apis:
   tags: Availability Statuses Resource Group
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftresourcehealthavailabilitystatuses-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-resourcehealthavailabilitystatuses-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftresourcehealthavailabilitystatuses-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-resourcehealthavailabilitystatuses-get-openapi.md
 - name: Azure Resource Health API Availability Statuses Get By Resource
   x-api-slug: azure-resource-health-api
   description: Gets current availability status for a single resource
@@ -51,9 +51,9 @@ apis:
   tags: Availability Statuses Resource
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoftresourcehealthavailabilitystatusescurrent-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoft-resourcehealthavailabilitystatusescurrent-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoftresourcehealthavailabilitystatusescurrent-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoft-resourcehealthavailabilitystatusescurrent-get-openapi.md
 - name: Azure Resource Health API Availability Statuses List
   x-api-slug: azure-resource-health-api
   description: Lists the historical availability statuses for a single resource. Use
@@ -64,9 +64,9 @@ apis:
   tags: Availability Statuses
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoftresourcehealthavailabilitystatuses-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoft-resourcehealthavailabilitystatuses-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoftresourcehealthavailabilitystatuses-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/resourceuriprovidersmicrosoft-resourcehealthavailabilitystatuses-get-openapi.md
 - name: Azure Resource Health API Operations List
   x-api-slug: azure-resource-health-api
   description: Lists available operations for the resourcehealth resource provider
@@ -76,9 +76,9 @@ apis:
   tags: Operations
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/providersmicrosoftresourcehealthoperations-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/providersmicrosoft-resourcehealthoperations-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/providersmicrosoftresourcehealthoperations-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-resource-health/master/_listings/azure-resource-health/providersmicrosoft-resourcehealthoperations-get-openapi.md
 - name: Azure Resource Health API
   x-api-slug: azure-resource-health-api
   description: Resource health helps you diagnose and get support when an Azure issue
