@@ -4,7 +4,7 @@ url: azure-resource-health.streamdata.gallery
 tag: Azure Resource Health
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: azure-resource-health
 github_branch: master
 collections:
